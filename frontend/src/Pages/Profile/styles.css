@@ -24,7 +24,6 @@
   margin-left: auto;
   margin-top: 0;
   color: #f1f2f1;
-  font-weight: 500;
 }
 
 .profile-container header button{
@@ -65,6 +64,7 @@
   right: 24px;
   top: 24px;
   border: 0;
+  background: transparent;
 }
 
 .profile-container ul li button:hover {
