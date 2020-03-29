@@ -4,6 +4,7 @@ import { useNavigation} from '@react-navigation/native'
 import { View, FlatList, Image, Text, TouchableOpacity } from 'react-native';
 
 import logoImg from '../../assets/logo.png';
+import styles from './styles';
 
 export default function Incidents(){
   const navigation = useNavigation();
